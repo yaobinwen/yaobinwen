@@ -40,5 +40,4 @@ I find [these mental models](./Mental-Models.md) helpful to my work and life.
 
 - [yaobinwen/Critical-Thinking](https://yaobinwen.github.io/Critical-Thinking/): My essays on critical thinking, especially on the criticism of the violation (mostly in Chinese).
 - [yaobinwen/English](https://github.com/yaobinwen/English): Originally from China, currently living in the United States, I need to keep learning English to improve my communication.
-- [yaobinwen/take-care-of-a-surgical-oncologist](https://github.com/yaobinwen/take-care-of-a-surgical-oncologist): My girlfriend is a surgical oncologist and her work is stressful and also cause a lot of muscle fatigue. I want to learn how to take care of her and make her life easier and happier.
 - [Nonviolent Communication (NVC)](https://www.cnvc.org/): Being an NVC practitioner, I believe this communication method can improve the quality of life, for me and others around me.
