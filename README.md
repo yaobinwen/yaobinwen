@@ -32,6 +32,10 @@
 
 - [yaobinwen/myPSP](https://github.com/yaobinwen/myPSP): A self-improvement software process for software engineers to improve the work quality _precisely_, _quantitatively_, and _continuously_.
 
+### Mental Models
+
+I find [these mental models](./Mental-Models.md) helpful to my work and life.
+
 ### Non-tech
 
 - [yaobinwen/Critical-Thinking](https://yaobinwen.github.io/Critical-Thinking/): My essays on critical thinking, especially on the criticism of the violation (mostly in Chinese).
