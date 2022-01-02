@@ -39,5 +39,6 @@ I find [these mental models](./Mental-Models.md) helpful to my work and life.
 ### Non-tech
 
 - [yaobinwen/Critical-Thinking](https://yaobinwen.github.io/Critical-Thinking/): My essays on critical thinking, especially on the criticism of the violation (mostly in Chinese).
+- [yaobinwen/Chinese](https://github.com/yaobinwen/Chinese): 重新发现和学习中文。
 - [yaobinwen/English](https://github.com/yaobinwen/English): Originally from China, currently living in the United States, I need to keep learning English to improve my communication.
 - [Nonviolent Communication (NVC)](https://www.cnvc.org/): Being an NVC practitioner, I believe this communication method can improve the quality of life, for me and others around me.
