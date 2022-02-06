@@ -27,6 +27,7 @@
 
 - 🌟 [yaobinwen/Web-Dev-Birds-Eye](https://github.com/yaobinwen/Web-Dev-Birds-Eye): A Bird's-eye view of web development to help novice web developers to speed up learning.
 - 🌟 [yaobinwen/cmake-explained](https://github.com/yaobinwen/cmake-explained): A tutorial of modern CMake.
+- [yaobinwen/systemd-explained](https://github.com/yaobinwen/systemd-explained): A tutorial of `systemd`.
 
 ### Software Engineering
 
