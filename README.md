@@ -45,3 +45,9 @@ I find [these mental models](./Mental-Models.md) helpful to my work and life.
 - [yaobinwen/Chinese](https://github.com/yaobinwen/Chinese): 重新发现和学习中文。
 - [yaobinwen/English](https://github.com/yaobinwen/English): Originally from China, currently living in the United States, I need to keep learning English to improve my communication.
 - [Nonviolent Communication (NVC)](https://www.cnvc.org/): Being an NVC practitioner, I believe this communication method can improve the quality of life, for me and others around me.
+
+### GitHub Stats
+
+<a href="https://github.com/yaobinwen">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=yaobinwen&show_icons=true&line_height=27&count_private=true" alt="Yaobin's GitHub Stats" />
+</a>
