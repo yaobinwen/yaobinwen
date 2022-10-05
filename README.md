@@ -15,7 +15,7 @@
 - 🌟[yaobinwen/git-log-S-G](https://github.com/yaobinwen/git-log-S-G): Explain how `git log -S` and `git log -G` work using the repository itself.
 - 🌟[yaobinwen/local-https](https://github.com/yaobinwen/local-https): Deploy a local HTTPS web service which is good for local testing and experimenting.
 - 🌟[yaobinwen/work-env](https://github.com/yaobinwen/work-env): Set up my own work environment with the tools I like.
-- [yaobinwen/robin_on_rails](https://github.com/yaobinwen/robin_on_rails) keeps my notes about various technological topics. Here is a glance of some of them:
+- 🌟[yaobinwen/robin_on_rails](https://github.com/yaobinwen/robin_on_rails) keeps my notes about various technological topics. Here is a glance of some of them:
   - [Ansible](https://github.com/yaobinwen/robin_on_rails/tree/master/Ansible)
   - [Internet](https://github.com/yaobinwen/robin_on_rails/tree/master/internet)
   - [C/C++](https://github.com/yaobinwen/robin_on_rails/tree/master/lang/c_cpp)
