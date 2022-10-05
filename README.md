@@ -1,12 +1,15 @@
 ## Hi there 👋
 
+### My Tech Blog
+
+- 🌟[yaobinwen.github.io](https://yaobinwen.github.io/): My blog on technological topics.
+
 ### Knowledge Transfer
 
 - 🌟[yaobinwen/document-shredded](https://github.com/yaobinwen/document-shredded): This project collects documentation good practices with examples and bad practices as counter-examples in order to create a repeatible process of creating easy-to-understand documentation.
 
 ### Technologies
 
-- 🌟[yaobinwen.github.io](https://yaobinwen.github.io/): My blog on technological topics.
 - 🌟[yaobinwen/backporting-gl2ps](https://github.com/yaobinwen/backporting-gl2ps): This repository discusses the issue I ran into when backporting `gl2ps` from Ubuntu Impish to Ubuntu Bionic by looking deep into two packages: `debhelper` and CMake.
 - 🌟[yaobinwen/cpp-static-dynamic-linking](https://github.com/yaobinwen/cpp-static-dynamic-linking): My study on how GCC static linking and dynamic linking should be configured to work.
 - 🌟[yaobinwen/git-log-S-G](https://github.com/yaobinwen/git-log-S-G): Explain how `git log -S` and `git log -G` work using the repository itself.
