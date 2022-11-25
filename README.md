@@ -15,14 +15,14 @@
 - 🌟[yaobinwen/git-log-S-G](https://github.com/yaobinwen/git-log-S-G): Explain how `git log -S` and `git log -G` work using the repository itself.
 - 🌟[yaobinwen/local-https](https://github.com/yaobinwen/local-https): Deploy a local HTTPS web service which is good for local testing and experimenting.
 - 🌟[yaobinwen/work-env](https://github.com/yaobinwen/work-env): Set up my own work environment with the tools I like.
-- 🌟[yaobinwen/robin_on_rails](https://github.com/yaobinwen/robin_on_rails) keeps my notes about various technological topics. Here is a glance of some of them:
+- 🌟[yaobinwen/robin_on_rails](https://github.com/yaobinwen/robin_on_rails): My notes about various technological topics. Here is a glance of some of them:
   - [Ansible](https://github.com/yaobinwen/robin_on_rails/tree/master/Ansible)
-  - [Internet](https://github.com/yaobinwen/robin_on_rails/tree/master/internet)
-  - [C/C++](https://github.com/yaobinwen/robin_on_rails/tree/master/lang/c_cpp)
-  - [Go](https://github.com/yaobinwen/robin_on_rails/blob/master/lang/Go.md)
-  - [Python](https://github.com/yaobinwen/robin_on_rails/tree/master/python)
-  - [Linux](https://github.com/yaobinwen/robin_on_rails/tree/master/linux)
-  - [Security](https://github.com/yaobinwen/robin_on_rails/tree/master/security)
+  - [Internet](https://github.com/yaobinwen/robin_on_rails/tree/master/Internet)
+  - [C/C++](https://github.com/yaobinwen/robin_on_rails/tree/master/C_Cpp)
+  - [Go](https://github.com/yaobinwen/robin_on_rails/tree/master/Go)
+  - [Python](https://github.com/yaobinwen/robin_on_rails/tree/master/Python)
+  - [Linux](https://github.com/yaobinwen/robin_on_rails/tree/master/Linux)
+  - [Security](https://github.com/yaobinwen/robin_on_rails/tree/master/Security)
 - [yaobinwen/cpython](https://github.com/yaobinwen/cpython): Since I started to work on Python a few years ago, I realized how important it is to understand the internal details of this language. I forked the C implementation to learn how the language works.
 - [yaobinwen/dpkg](https://github.com/yaobinwen/dpkg): I work on Ubuntu and manage the Debian package building and publishing in my company, so I use [dpkg(1)](https://manpages.ubuntu.com/manpages/bionic/en/man1/dpkg.1.html) a lot. I forked the source code in order to learn the tool and **Perl**. See my README file [dpkg: Annotated Version](https://github.com/yaobinwen/dpkg/blob/master/README.md).
   - Along with `dpkg(1)`, I also use [yaobinwen/debhelper](https://github.com/yaobinwen/debhelper) tool suite.
