@@ -4,10 +4,6 @@
 
 - 🌟[yaobinwen.github.io](https://yaobinwen.github.io/): My blog on technological topics.
 
-### Knowledge Transfer
-
-- 🌟[yaobinwen/document-shredded](https://github.com/yaobinwen/document-shredded): This project collects documentation good practices with examples and bad practices as counter-examples in order to create a repeatible process of creating easy-to-understand documentation.
-
 ### Technologies
 
 - 🌟[yaobinwen/backporting-gl2ps](https://github.com/yaobinwen/backporting-gl2ps): This repository discusses the issue I ran into when backporting `gl2ps` from Ubuntu Impish to Ubuntu Bionic by looking deep into two packages: `debhelper` and CMake.
@@ -16,13 +12,6 @@
 - 🌟[yaobinwen/local-https](https://github.com/yaobinwen/local-https): Deploy a local HTTPS web service which is good for local testing and experimenting.
 - 🌟[yaobinwen/react-box](https://github.com/yaobinwen/react-box): My notes and code of about React.js and MUI.
 - 🌟[yaobinwen/robin_on_rails](https://github.com/yaobinwen/robin_on_rails): My notes about various technological topics. Here is a glance of some of them:
-  - [Ansible](https://github.com/yaobinwen/robin_on_rails/tree/master/Ansible)
-  - [Internet](https://github.com/yaobinwen/robin_on_rails/tree/master/Internet)
-  - [C/C++](https://github.com/yaobinwen/robin_on_rails/tree/master/C_Cpp)
-  - [Go](https://github.com/yaobinwen/robin_on_rails/tree/master/Go)
-  - [Python](https://github.com/yaobinwen/robin_on_rails/tree/master/Python)
-  - [Linux](https://github.com/yaobinwen/robin_on_rails/tree/master/Linux)
-  - [Security](https://github.com/yaobinwen/robin_on_rails/tree/master/Security)
 - 🌟[yaobinwen/work-env](https://github.com/yaobinwen/work-env): Set up my own work environment with the tools I like.
 - 🌟[yaobinwen/Linux-Lab](https://github.com/yaobinwen/Linux-Lab): How to create a home lab to study Linux kernal and C/C++ libraries (and possibly everything else).
 - [yaobinwen/cpython](https://github.com/yaobinwen/cpython): Since I started to work on Python a few years ago, I realized how important it is to understand the internal details of this language. I forked the C implementation to learn how the language works.
@@ -40,17 +29,15 @@
 
 ### Software Engineering
 
+- 🌟[yaobinwen/document-shredded](https://github.com/yaobinwen/document-shredded): This project collects documentation good practices with examples and bad practices as counter-examples in order to create a repeatible process of creating easy-to-understand documentation.
 - [yaobinwen/myPSP](https://github.com/yaobinwen/myPSP): A self-improvement software process for software engineers to improve the work quality _precisely_, _quantitatively_, and _continuously_.
-
-### Mental Models
-
-I find [these mental models](./Mental-Models.md) helpful to my work and life.
 
 ### Non-tech
 
-- [yaobinwen/Thoughts-on-Dust](https://yaobinwen.github.io/Thoughts-on-Dust/): My personal thoughts on things that may or may not be important.
-- [yaobinwen/Chinese](https://github.com/yaobinwen/Chinese): 重新发现和学习中文。
-- [yaobinwen/English](https://github.com/yaobinwen/English): Originally from China, currently living in the United States, I need to keep learning English to improve my communication.
+- I find [these mental models](./Mental-Models.md) helpful to my work and life.
+- [Thoughts](./Thoughts): My personal thoughts on things that may or may not be important.
+- [Chinese](./Chinese): 重新发现和学习中文。
+- [English](./English): Originally from China, currently living in the United States, I need to keep learning English to improve my communication.
 - [Nonviolent Communication (NVC)](https://www.cnvc.org/): Being an NVC practitioner, I believe this communication method can improve the quality of life, for me and others around me.
 
 ### GitHub Stats
