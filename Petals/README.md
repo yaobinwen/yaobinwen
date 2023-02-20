@@ -131,6 +131,10 @@ The name "Petals" is inspired by the title of the book _Dawn Blossoms Plucked at
   - 《一封情书》：一种突发的疯狂，并执着地想要做完，但做完之后却立刻抛之脑后，完全想不起来当初做这件事的意义。
   - 《托德战舰》：人们怀着一种情怀而坚持着，却不知道这种情怀可能已经毫无意义。
 
+### Others
+
+- 🌟 Jim Loehr, Tony Schwartz: _The Power of Full Engagement_
+
 ## 3. Movies, Documentaries, and Shows
 
 - 🌟 陈丹青：[《局部》](https://www.youtube.com/playlist?list=PLvWfRmQ8sEi4eM9awXWHx8dodWdQRvDDY)
