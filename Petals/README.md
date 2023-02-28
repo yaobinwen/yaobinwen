@@ -12,7 +12,7 @@ I read in both Chinese and English, so I also write in both.
 
 The name "Petals" is inspired by the title of the book _Dawn Blossoms Plucked at Dusk (《朝花夕拾》)_ by the Chinese writer [Lu Xun](https://en.wikipedia.org/wiki/Lu_Xun). The author recounts his childhood stories, i.e., the flowers at the dawn of his life, the things that were beautiful, joyful, but could also be painful. I'm collecting the petals too, those I will recall when I grow older.
 
-## 2. Books and Articles
+## 2. Books
 
 ### 大陆 + 台湾
 
@@ -86,10 +86,14 @@ The name "Petals" is inspired by the title of the book _Dawn Blossoms Plucked at
 
 ### 英国 🇬🇧
 
+- George Orwell:
+  - 1984
+  - Animal Farm
 - W. Somerset Maugham:
   - _The Moon And Sixpence_
   - 《毛姆短篇小说精选集》
   - 《在中国屏风上（中英对照全译本）》：透过一个英国人的视角看早期民国的中国。
+- Charles Dickens: A Tale of Two Cities
 - 简.奥斯汀：《傲慢与偏见》：情节流畅，虽然是虚构的故事，但是在读的时候我却并没有感觉到一种刻意的“设计”感，没有那种强行的转折，甚至有些地方的伏笔埋伏得巧妙(比如因为小说前面提到Younge夫人与Wickham相识，所以后面Darcy可以很快找到Wickham)。人物刻画也到位，对白和行为方式都可以反映人物的性格和当时所处的心境，从来没有让我感觉到哪段对白是废话。奥斯汀也在试图建立一个她心中的理想(并非是完美)的女性样本，但她也同时建立了一正一反的两个的男性角色样本。
 
 ### 波兰 🇵🇱
@@ -133,7 +137,12 @@ The name "Petals" is inspired by the title of the book _Dawn Blossoms Plucked at
 
 - Jim Loehr, Tony Schwartz: _The Power of Full Engagement_
 
-## 3. Movies, Documentaries, and Shows
+## 3. Articles & Talks
+
+- [TED: Linda Cliatt-Wayman: How to fix a broken school? Lead fearlessly, love hard](https://youtu.be/Xe2nlti47kA)
+- [故事FM: E593.沉默十年的反击：被性侵的男孩们决定站出来](https://storyfm.cn/episodes/e593/): "今天我们的讲述人杨洋，就是一位男性性侵害受害者。他在遭受高中老师梁岗猥亵后，经历了漫长的自我否定和沉默。但当他决定讲出自己的经历，他无意间打碎了一起长达十年的性侵案的缄默。"
+
+## 4. Movies, Documentaries, and Shows
 
 - 陈丹青：[《局部》](https://www.youtube.com/playlist?list=PLvWfRmQ8sEi4eM9awXWHx8dodWdQRvDDY)
 - [《但是还有书籍》](https://www.bilibili.com/bangumi/play/ss27249)
@@ -146,8 +155,79 @@ The name "Petals" is inspired by the title of the book _Dawn Blossoms Plucked at
 - 《牯岭街少年杀人事件》：这部电影就像一棵大树，主干给我们讲述了一个完整的故事，枝叶让我们得以一窥那个时代的台湾。
 - 日剧：《坂上之云》
 - HBO: [_Band of Brothers_](https://www.hbo.com/band-of-brothers)
+- 贾樟柯：
+  - 《小武》
+  - 《站台》
+  - 《三峡好人》
+- Charlie Chaplin:
+  - Modern Times
+  - City Lights
+  - The Great Dictator
+  - The Kid
+- Buster Keaton:
+  - [x] The Butcher Boy (1917)
+  - [x] The Rough House (1917)
+  - [x] His Wedding Night (1917)
+  - [x] Oh Doctor! (1917)
+  - [x] Coney Island (1917)
+  - [x] Out West (1918)
+  - [x] The Bellboy (1918)
+  - [x] Moonshine (1918)
+  - [x] Good Night, Nurse! (1918)
+  - [x] Back Stage (1919)
+  - [x] The Hayseed (1919) (Released on **Oct. 26**, 1919)
+  - [x] The Garage (1920)
+  - [x] One Week (1920)
+  - [ ] The Saphead (1920): Keaton's first feature-length movie.
+  - [ ] The Round-Up (1920)
+  - [x] Convict 13 (1920)
+  - [x] The Scarecrow (1920) (Good!)
+  - [x] Neighbors (1920)
+  - [x] The Haunted House (1920)
+  - [x] Hard Luck (1920)
+  - [x] The High Sign (1921)
+  - [x] The Goat (1921): The cop chase is great!
+  - [x] The Play House (1921)
+  - [x] The Boat (1921) ("Damfino" is also the alias of the International Buster Keaton Society.)
+  - [x] The Paleface (1922) (How a little white man helped native Americans save their land.)
+  - [x] Cops (1922) (The cop chase-and-run)
+  - [x] My Wife's Relations (1922)
+  - [x] The Blacksmith (1922)
+  - [x] The Frozen North (1922)
+  - [x] The Electric House (1922) (This looks like a sci-fi back to that time.)
+  - [x] Daydreams (1922)
+  - [x] The Balloonatic (1923)
+  - [x] The Love Nest (1923)
+  - [x] The Three Ages (1923)
+  - [x] Our Hospitality (1923)
+  - [x] Sherlock Jr. (1924)
+  - [x] The Navigator (1924)
+  - [x] Seven Chances (1925)
+  - [x] The Iron Mule (Short) (1925)
+  - [x] Go West (1925)
+  - [x] Battling Butler (1926)
+  - [x] The General (1926)
+  - [x] College (1927)
+  - [x] Steamboat Bill, Jr. (1928)
+  - [x] The Cameraman (1928)
+    - This movie has the plot of a gang war in Chinatown. Many Chinese actors appeared in this movie.
+    - The little monkey played an important role in it. However, the monkey also makes the success of the photographer look like pure luck, which undermines the good moral of this character.
+  - [ ] Tide of Empire (1929)
+  - [ ] Spite Marriage (1929)
+  - [ ] The Hollywood Revue of 1929 (1929)
+  - [ ] Battle of Paris (1929)
+  - [ ] Free and Easy (1930)
+  - [ ] Estrellados (1930)
+  - [ ] Doughboys (1930)
+  - [ ] The March of Time (1930)
+  - [ ] De frente, marchen (1930)
+- 表演工作坊的作品：
+  - 《暗恋.桃花源》
+  - 《绝不付账》
+  - 《我和我和他和他》
+  - 《如影随形》
 
-## 4. Music
+## 5. Music
 
 - 赵牧阳：[《侠客行》](https://youtu.be/sDxsOli_Cik)
 - 苏运莹：[《野子》](https://youtu.be/VqqyN7Q7Qu0)
@@ -155,8 +235,3 @@ The name "Petals" is inspired by the title of the book _Dawn Blossoms Plucked at
 - 王峥嵘：[《唱歌的孩子》](https://youtu.be/3DA5nJH5duo)
 - Eric Clapton: [_I Shot the Sheriff (live in Hyde Park 1996)_](https://youtu.be/6Iugs4pSpgY)
   - The album is [this](https://en.wikipedia.org/wiki/Live_in_Hyde_Park_(Eric_Clapton_album)).
-
-## 5. Talks
-
-- [TED: Linda Cliatt-Wayman: How to fix a broken school? Lead fearlessly, love hard](https://youtu.be/Xe2nlti47kA)
-- [故事FM: E593.沉默十年的反击：被性侵的男孩们决定站出来](https://storyfm.cn/episodes/e593/): "今天我们的讲述人杨洋，就是一位男性性侵害受害者。他在遭受高中老师梁岗猥亵后，经历了漫长的自我否定和沉默。但当他决定讲出自己的经历，他无意间打碎了一起长达十年的性侵案的缄默。"
