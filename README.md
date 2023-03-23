@@ -40,6 +40,16 @@ I'm actively working on the following projects but they are not finished yet:
 - [yaobinwen/dpkg](https://github.com/yaobinwen/dpkg): I work on Ubuntu and manage the Debian package building and publishing in my company, so I use [dpkg(1)](https://manpages.ubuntu.com/manpages/bionic/en/man1/dpkg.1.html) a lot. I forked the source code in order to learn the tool and **Perl**. See my README file [dpkg: Annotated Version](https://github.com/yaobinwen/dpkg/blob/master/README.md).
   - Along with `dpkg(1)`, I also use [yaobinwen/debhelper](https://github.com/yaobinwen/debhelper) tool suite.
 
+### GitHub Stats
+
+<a href="https://github.com/yaobinwen">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=yaobinwen&show_icons=true&line_height=27&count_private=true" alt="Yaobin's GitHub Stats" />
+</a>
+
+### Health & Energy Management
+
+No matter you like it or not, time elapses second by second and you _can't_ manage it. What you can manage it your _energy_, as argued in the book [_The Power of Full Engagement: Managing Energy, Not Time, Is the Key to High Performance and Personal Renewal_](https://www.goodreads.com/book/show/68985.The_Power_of_Full_Engagement). The page [Health](./Health.md) lists my habbits of maintaining good health and energy level.
+
 ### Non-tech
 
 - [Thoughts](./Thoughts): My personal thoughts on things that may or may not be important.
@@ -47,9 +57,3 @@ I'm actively working on the following projects but they are not finished yet:
 - [Chinese](./Chinese): Being a Chinese, I surely learned Chinese in schools. However, I didn't realize why I had to learn the language if it's already my mother tongue. I learned everything with the purpose of passing the examinations. One day in 2018, when I was sitting in my apartment in Pittsburgh, PA, it occurred to me that I had always learned Chinese for examinations but not for the language itself. Since then, I started to re-learn Chinese, including the classic Chinese literature.
 - [English](./English): Originally from China, currently living in the United States, I need to keep learning English.
 - [Nonviolent Communication (NVC)](https://www.cnvc.org/): Being an NVC practitioner, I believe this communication method can improve the quality of life, for me and others around me.
-
-### GitHub Stats
-
-<a href="https://github.com/yaobinwen">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=yaobinwen&show_icons=true&line_height=27&count_private=true" alt="Yaobin's GitHub Stats" />
-</a>
