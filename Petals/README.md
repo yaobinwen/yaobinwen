@@ -99,6 +99,7 @@ The name "Petals" is inspired by the title of the book _Dawn Blossoms Plucked at
   - 《在中国屏风上（中英对照全译本）》：透过一个英国人的视角看早期民国的中国。
 - Charles Dickens: A Tale of Two Cities
 - 简.奥斯汀：《傲慢与偏见》：情节流畅，虽然是虚构的故事，但是在读的时候我却并没有感觉到一种刻意的“设计”感，没有那种强行的转折，甚至有些地方的伏笔埋伏得巧妙(比如因为小说前面提到Younge夫人与Wickham相识，所以后面Darcy可以很快找到Wickham)。人物刻画也到位，对白和行为方式都可以反映人物的性格和当时所处的心境，从来没有让我感觉到哪段对白是废话。奥斯汀也在试图建立一个她心中的理想(并非是完美)的女性样本，但她也同时建立了一正一反的两个的男性角色样本。
+- [Sydney Padua: The Thrilling Adventures of Lovelace and Babbage: The (Mostly) True Story of the First Computer](https://www.amazon.com/Thrilling-Adventures-Lovelace-Babbage-Computer/dp/0307908275)
 
 ### 波兰 🇵🇱
 
