@@ -50,6 +50,7 @@ The name "Petals" is inspired by the title of the book _Dawn Blossoms Plucked at
 - 贾平凹：《高兴》
 - 贾樟柯、万佳欢：《贾想 I》： 贾樟柯电影手记1996—2008：我想贾樟柯应该是一个温柔但是有力量的人。他的温柔体现在他说话的口气上和作品中对“人”的感情；他的力量体现在他对自己的观点和立场的坚持。我认为他是一个真正懂电影和电影工业的人。他的想法值得一读。
 - 唐四方：[《相声大师》](https://book.douban.com/subject/27015377/)
+- 杨早：《早生贵子》
 
 ### 美国 🇺🇸
 
