@@ -51,7 +51,7 @@ Many times people brag about how many books they read in a year. But finishing r
 
 You can't manage your time. What you need to do is manage your energy. [2]
 
-## 4. Habbits
+## 4. Habits
 
 - 4.1. Do morning warm-up  on the balcony. The purposes are:
   - Get daily sunlight exposure. [3]
@@ -69,7 +69,11 @@ You can't manage your time. What you need to do is manage your energy. [2]
   - Make time for reading.
 - 4.6 Start to act if I find I spend too much time in (over)thinking. [3]
 
-## 5. References
+## 5. Uncategories
+
+- Overshoot a goal from time to time. (See [this article](https://www.yourtango.com/self/unsexy-habits-immediately-increase-mental-strength))
+
+## 6. References
 
 - [1] [_Deep Work: Rules for Focused Success in a Distracted World_](https://www.goodreads.com/book/show/25744928-deep-work)
 - [2] [_The Power of Full Engagement: Managing Energy, Not Time, Is the Key to High Performance and Personal Renewal_](https://www.goodreads.com/book/show/68985.The_Power_of_Full_Engagement)
