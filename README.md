@@ -6,6 +6,8 @@ Being a software developer, I am maintaining my **tech blog** in [yaobinwen.gith
 
 [yaobinwen/robin_on_rails](https://github.com/yaobinwen/robin_on_rails) contains the notes or thoughts that I take when I read technical articles. The notes and thoughts in this repository may not be well structured yet,and my plan is to gradually turn them into articles once I've accumulated enough in the related topics.
 
+[Happy Hour 🍻](https://github.com/users/yaobinwen/projects/3/views/1) is my personal task tracker.
+
 [yaobinwen/work-env](https://github.com/yaobinwen/work-env) contains the scripts, guides, and programs that help me quickly set up my own work environment.
 
 ### GitHub Repositories
