@@ -4,7 +4,7 @@ This is Yaobin, a software developer.
 
 Being a software developer, I am maintaining my **tech blog** in [yaobinwen.github.io](https://yaobinwen.github.io/) which discusses topics related with computer technologies.
 
-[yaobinwen/robin_on_rails](https://github.com/yaobinwen/robin_on_rails) contains the randome notes or thoughts that are generated when I read technical articles. The repository looks a bit messy due to the messy nature of the thoughts and notes. My plan is to gradually turn them into articles once I've accumulated enough in the related topics.
+[yaobinwen/robin_on_rails](https://github.com/yaobinwen/robin_on_rails) contains the notes or thoughts that I take when I read technical articles. The notes and thoughts in this repository may not be well structured yet,and my plan is to gradually turn them into articles once I've accumulated enough in the related topics.
 
 [yaobinwen/work-env](https://github.com/yaobinwen/work-env) contains the scripts, guides, and programs that help me quickly set up my own work environment.
 
