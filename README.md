@@ -18,27 +18,19 @@ Sometimes a technical topic is best explored with code or a sandbox environment.
 - [yaobinwen/cpp-static-dynamic-linking](https://github.com/yaobinwen/cpp-static-dynamic-linking): My study on how GCC static linking and dynamic linking should be configured to work.
 - [yaobinwen/git-log-S-G](https://github.com/yaobinwen/git-log-S-G): Explain how `git log -S` and `git log -G` work using the repository itself.
 - [yaobinwen/react-box](https://github.com/yaobinwen/react-box): My notes and code of about React.js and MUI.
+- [yaobinwen/ssh-tunneling-explained](https://github.com/yaobinwen/ssh-tunneling-explained): Explain what is SSH tunneling and how to use it.
 
 ### Work in Progress
 
-I usually work on multiple projects concurrently, because my daily job requires me to learn a wide range of technologies, from as low level as dealing with hardware all the way up to as high as developing user-facing web frontend. I know a lot of people don't like this and critize that I'm in lack of a focus. To some degree, I agree with that. The division of labor in modern society awards the people who focus on one thing and do it really well, and by spreading my attention to different areas, I am putting myself to a position of disadvantage compared to many others.
+I'm currently working on the following projects but haven't finished them yet:
 
-However, I'm arguing what I'm doing have benefits, too:
-- 1). I want to do it due to curiosity. Being a developer, I am curious by nature. Learning different technologies opens my eyes and fulfills my curiousity.
-- 2). This wide coverage of technologies allows me to learn how to develop a complete product from ground zero. I will have the chance to think from the perspectives of different levels of product development and be able to oversee the entire development lifecycle.
-- 3). I have the motivation to keep learning "how to learn more efficiently" because I need to keep learning new stuff and use them for my work. Knowledge can go out-dated quickly. But the ability of learning knowledge gets only sharpened more as time goes by. I do agree that knowledge is important (because it makes you able to do the work), but I also believe the ability of learning is even more important (because it allows people to adapt quickly, especially with the advent of artificial intelligence).
-
-I'm actively working on the following projects but they are not finished yet:
-- [yaobinwen/Web-Dev-Birds-Eye](https://github.com/yaobinwen/Web-Dev-Birds-Eye): A Bird's-eye view of web development to help novice web developers to speed up learning.
-- [yaobinwen/cmake-explained](https://github.com/yaobinwen/cmake-explained): A tutorial of modern CMake.
-- [yaobinwen/error-handling](https://github.com/yaobinwen/error-handling): My learning and thinking over error reporting and handling in programming.
-- [yaobinwen/ssh-tunneling-explained](https://github.com/yaobinwen/ssh-tunneling-explained): Explain what is SSH tunneling and how to use it.
-- [yaobinwen/floating-point-numbers](https://github.com/yaobinwen/floating-point-numbers): My study and notes regarding floating-point numbers.
-- [yaobinwen/systemd-explained](https://github.com/yaobinwen/systemd-explained): A tutorial of `systemd`.
 - [yaobinwen/local-https](https://github.com/yaobinwen/local-https): Deploy a local HTTPS web service which is good for local testing and experimenting.
-- [yaobinwen/Linux-Lab](https://github.com/yaobinwen/Linux-Lab): How to create a home lab to study Linux kernal and C/C++ libraries (and possibly everything else).
-- [yaobinwen/document-shredded](https://github.com/yaobinwen/document-shredded): This project collects documentation good practices with examples and bad practices as counter-examples in order to create a repeatible process of creating easy-to-understand documentation.
-- [yaobinwen/work-env/myPSP](https://github.com/yaobinwen/work-env/tree/master/myPSP): A self-improvement software process for software engineers to improve the work quality _precisely_, _quantitatively_, and _continuously_.
+- [yaobinwen/cmake-explained](https://github.com/yaobinwen/cmake-explained): A tutorial of modern CMake.
+- [yaobinwen/document-shredded](https://github.com/yaobinwen/document-shredded): This project collects documentation good practices with examples and bad practices as counter-examples in order to create a repeatable process of creating easy-to-understand documentation.
+
+### Misc.
+
+- [yaobinwen/Linux-Lab](https://github.com/yaobinwen/Linux-Lab): How to create a home lab to study Linux kernel and C/C++ libraries (and possibly everything else).
 - [yaobinwen/dpkg](https://github.com/yaobinwen/dpkg): I work on Ubuntu and manage the Debian package building and publishing in my company, so I use [dpkg(1)](https://manpages.ubuntu.com/manpages/bionic/en/man1/dpkg.1.html) a lot. I forked the source code in order to learn the tool and **Perl**. See my README file [dpkg: Annotated Version](https://github.com/yaobinwen/dpkg/blob/master/README.md).
   - Along with `dpkg(1)`, I also use [yaobinwen/debhelper](https://github.com/yaobinwen/debhelper) tool suite.
 
