@@ -122,7 +122,7 @@ The name "Petals" is inspired by the title of the book _Dawn Blossoms Plucked at
 
 - Thich Nhat Hanh: _Old Path White Clouds : Walking in the Footsteps of the Buddha_：可以了解到佛祖一生中的主要经历，也可以了解到佛教中最核心的教义。当然仅凭一本书，读者很难真正领悟佛教。这本书只是一个介绍性的文本。如果想参悟佛教，还需要努力修行。
 
-### 意大利🇮🇹
+### 意大利 🇮🇹
 
 - 迪诺.布扎蒂([Dino Buzzati](https://en.wikipedia.org/wiki/Dino_Buzzati))：[《六十个故事》](https://book.douban.com/subject/35094296/)。有几篇故事还是挺印象深刻的：
   - 《斗篷》：一个在战场上已经死去的孩子，乞求死神给他一些时间，只为了和母亲和弟弟说一声永别。
@@ -133,6 +133,10 @@ The name "Petals" is inspired by the title of the book _Dawn Blossoms Plucked at
   - 《追风的人》：故事编写的方式很有点独特。
   - 《一封情书》：一种突发的疯狂，并执着地想要做完，但做完之后却立刻抛之脑后，完全想不起来当初做这件事的意义。
   - 《托德战舰》：人们怀着一种情怀而坚持着，却不知道这种情怀可能已经毫无意义。
+
+### 俄国 🇷🇺
+
+- Daniil Aleksandrovich Granin: 《奇特的一生》
 
 ### Others
 
