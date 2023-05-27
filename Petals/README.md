@@ -240,3 +240,4 @@ The name "Petals" is inspired by the title of the book _Dawn Blossoms Plucked at
 - 王峥嵘：[《唱歌的孩子》](https://youtu.be/3DA5nJH5duo)
 - Eric Clapton: [_I Shot the Sheriff (live in Hyde Park 1996)_](https://youtu.be/6Iugs4pSpgY)
   - The album is [this](https://en.wikipedia.org/wiki/Live_in_Hyde_Park_(Eric_Clapton_album)).
+- 四个女生：《心愿》
