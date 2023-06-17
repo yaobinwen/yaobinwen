@@ -4,11 +4,11 @@
 
 The guidelines in this document serves a few purposes:
 
-- 1). Help me keep the good habbits.
+- 1). Help me keep the good habits.
 - 2). Remind me of the good practices I want to do (so I can gradually internalize them into my daily routine).
-- 3). Track the habbits or practices I'm experimenting.
+- 3). Track the habits or practices I'm experimenting.
 
-The ultimate purpose is to help me establish good habbits in order to make the best of my life.
+The ultimate purpose is to help me establish good habits in order to make the best of my life.
 
 ## 2. How to use?
 
@@ -17,7 +17,7 @@ Review this document **every two weeks** (i.e., twice a month). Update the docum
 Specifically:
 
 - 1). For mental models, review them and reflect if I am following them.
-- 2). For habbits, review them and reflect if I'm following them, and update them if needed.
+- 2). For habits, review them and reflect if I'm following them, and update them if needed.
 
 ## 3. Mental Models
 
