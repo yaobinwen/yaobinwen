@@ -24,6 +24,7 @@ Sometimes a technical topic is best explored with code or a sandbox environment.
 
 I'm currently working on the following projects but haven't finished them yet:
 
+- [yaobinwen/Robin-on-Math](https://github.com/yaobinwen/Robin-on-Math): My notes of learning mathematics.
 - [yaobinwen/local-https](https://github.com/yaobinwen/local-https): Deploy a local HTTPS web service which is good for local testing and experimenting.
 - [yaobinwen/cmake-explained](https://github.com/yaobinwen/cmake-explained): A tutorial of modern CMake.
 - [yaobinwen/document-shredded](https://github.com/yaobinwen/document-shredded): This project collects documentation good practices with examples and bad practices as counter-examples in order to create a repeatable process of creating easy-to-understand documentation.
