@@ -17,7 +17,7 @@ Sometimes a technical topic is best explored with code or a sandbox environment.
 - [yaobinwen/backporting-gl2ps](https://github.com/yaobinwen/backporting-gl2ps): This repository discusses the issue I ran into when backporting `gl2ps` from Ubuntu Impish to Ubuntu Bionic by looking deep into two packages: `debhelper` and CMake.
 - [yaobinwen/cpp-static-dynamic-linking](https://github.com/yaobinwen/cpp-static-dynamic-linking): My study on how GCC static linking and dynamic linking should be configured to work.
 - [yaobinwen/git-log-S-G](https://github.com/yaobinwen/git-log-S-G): Explain how `git log -S` and `git log -G` work using the repository itself.
-- [yaobinwen/react-box](https://github.com/yaobinwen/react-box): My notes and code of about React.js and MUI.
+- [yaobinwen/web-box](https://github.com/yaobinwen/web-box): My notes and code of learning web development, including React.js, MUI, node.js, and Tornado web server.
 - [yaobinwen/ssh-tunneling-explained](https://github.com/yaobinwen/ssh-tunneling-explained): Explain what is SSH tunneling and how to use it.
 
 ### Work in Progress
