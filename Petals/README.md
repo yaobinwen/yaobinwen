@@ -113,6 +113,8 @@ The name "Petals" is inspired by the title of the book _Dawn Blossoms Plucked at
 
 ### 法国 🇫🇷
 
+- 阿尔贝·加缪 (Albert Camus)：
+  - 《局外人》(2024-06-20读完)
 - 奥利维耶·盖：《魔鬼医生的消失》
 
 ### 挪威 🇳🇴
